@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import { Heading1 } from "lucide-react";
 import Link from "next/link";
 
 const CoursesPage = () => {
